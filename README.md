@@ -24,42 +24,42 @@
 <img width="918" height="1171" alt="image" src="https://github.com/user-attachments/assets/0e9dcbb2-bb5e-41c4-817e-cfaa66f434b7" />
 
 ---
+
 # The 25 ML feature engineering techniques👇
+## Cleaning & Scaling
+- Missing Value Imputation - fill gaps with mean, median, or models.
+- Outlier Treatment - detect with IQR or Z-score, treat via capping or removal.
+- Feature Scaling (Normalization) - rescale to a fixed range (0–1).
+- Standardization (Z-score) - zero mean, unit variance.
+- Log Transformation - reduce skewness, stabilise variance.
 
-✅ Cleaning & Scaling
-↳ Missing Value Imputation - fill gaps with mean, median, or models.
-↳ Outlier Treatment - detect with IQR or Z-score, treat via capping or removal.
-↳ Feature Scaling (Normalization) - rescale to a fixed range (0–1).
-↳ Standardization (Z-score) - zero mean, unit variance.
-↳ Log Transformation - reduce skewness, stabilise variance.
+## Encoding & Transformation
+- Binning (Discretization) - convert continuous into categorical intervals.
+- One-Hot Encoding - categorical to binary columns.
+- Label Encoding - numerical values for ordinal categories.
+- Target Encoding - replace categories with average target values.
+- Frequency Encoding - encode by occurrence frequency.
 
-✅ Encoding & Transformation
-↳ Binning (Discretization) - convert continuous into categorical intervals.
-↳ One-Hot Encoding - categorical to binary columns.
-↳ Label Encoding - numerical values for ordinal categories.
-↳ Target Encoding - replace categories with average target values.
-↳ Frequency Encoding - encode by occurrence frequency.
+## Feature Construction
+- Polynomial Features - capture non-linear relationships.
+- Feature Crossing - combine features to uncover hidden interactions.
+- Aggregation Features - summary stats (mean, count, sum) from grouped data.
+- Date-Time Features - extract day, month, weekday, seasonality.
+- Time Lag Features - use past observations for time-series.
 
-✅ Feature Construction
-↳ Polynomial Features - capture non-linear relationships.
-↳ Feature Crossing - combine features to uncover hidden interactions.
-↳ Aggregation Features - summary stats (mean, count, sum) from grouped data.
-↳ Date-Time Features - extract day, month, weekday, seasonality.
-↳ Time Lag Features - use past observations for time-series.
+## Advanced Representation
+- Rolling Window Features - moving averages and trends.
+- Text Vectorization (TF-IDF) - convert text to numerical vectors.
+- Word Embeddings - dense vectors capturing semantic meaning.
+- Image Feature Extraction - CNNs or embeddings for image data.
+- Dimensionality Reduction (PCA) - preserve variance, reduce overfitting.
 
-✅ Advanced Representation
-↳ Rolling Window Features - moving averages and trends.
-↳ Text Vectorization (TF-IDF) - convert text to numerical vectors.
-↳ Word Embeddings - dense vectors capturing semantic meaning.
-↳ Image Feature Extraction - CNNs or embeddings for image data.
-↳ Dimensionality Reduction (PCA) - preserve variance, reduce overfitting.
-
-✅ Selection & Importance
-↳ Filter Methods - statistical tests or correlation.
-↳ Wrapper Methods - iterative feature subset evaluation.
-↳ Embedded Methods - Lasso, tree-based importance.
-↳ Domain-Based Engineering - features built from real-world business logic.
-↳ Feature Importance Analysis - SHAP, permutation importance.
+## Selection & Importance
+- Filter Methods - statistical tests or correlation.
+- Wrapper Methods - iterative feature subset evaluation.
+- Embedded Methods - Lasso, tree-based importance.
+- Domain-Based Engineering - features built from real-world business logic.
+- Feature Importance Analysis - SHAP, permutation importance.
 
 <img width="913" height="1161" alt="image" src="https://github.com/user-attachments/assets/f621010a-d057-4cca-9887-8a5db8d04a92" />
 
