@@ -92,6 +92,90 @@
 <img width="894" height="1132" alt="image" src="https://github.com/user-attachments/assets/d679763d-a4f1-4373-a961-543d89299a6c" />
 
 
+---
+
+# 13 algorithms every ML engineer must understand:
+
+##🔸 Linear Regression
+- 📊 Best when relationships are mostly linear
+- 🧠 Predictable, explainable, easy to ship
+- ⚠️ Watch for non-linearity and multicollinearity
+- 🏁 Forecasting, pricing, baselines
+
+## 🔸 Boosted Trees (XGBoost)
+- 📊 Strong choice for tabular data
+- 🧠 Excellent accuracy on structured problems
+- ⚠️ Less transparent and tuning-heavy
+- 🏁 Fraud, churn, credit scoring
+
+## 🔸 Random Forest
+- 📊 Ensemble of decision trees
+- 🧠 Stable baseline under noise
+- ⚠️ Large forests hurt latency
+- 🏁 Healthcare risk, QA, manufacturing
+
+## 🔸 Support Vector Machines
+- 📊 Effective in high-dimensional spaces
+- 🧠 Strong margins with good features
+- ⚠️ Kernel methods struggle at scale
+- 🏁 Anomaly detection, bioinformatics
+
+## 🔸 CNNs (Vision)
+- 📊 Assumes spatial structure
+- 🧠 Reliable for visual tasks
+- ⚠️ Compute-heavy without optimization
+- 🏁 Object detection, medical imaging
+
+## 🔸 RNN / GRU
+- 📊 Designed for sequences
+- 🧠 Lightweight sequence modeling
+- ⚠️ Weak on long dependencies
+- 🏁 Sensor data, short time series
+
+## 🔸 LSTM
+- 📊 Handles longer sequences
+- 🧠 Built-in memory
+- ⚠️ Harder to scale than Transformers
+- 🏁 Speech, multivariate time series
+
+## 🔸 Transformers (LLMs)
+- 📊 Scales with data and compute
+- 🧠 Flexible across tasks
+- ⚠️ Costly under tight latency or budgets
+- 🏁 Assistants, search, summarization
+
+## 🔸 Vision Transformers (ViT)
+- 📊 Best with large datasets or pretraining
+- 🧠 Modern, flexible representations
+- ⚠️ Underperform on small data
+- 🏁 Image QA, embeddings
+
+## 🔸 GANs / Diffusion
+- 📊 Learns generative distributions
+- 🧠 High-quality media generation
+- ⚠️ Training and monitoring are hard
+- 🏁 Synthetic data, image generation
+
+## 🔸 Autoencoders
+- 📊 Assumes compressible data
+- 🧠 Useful for anomalies and embeddings
+- ⚠️ Risk of collapse
+- 🏁 Denoising, log anomalies
+
+## 🔸 PCA / Dimensionality Reduction
+- 📊 Captures high-variance directions
+- 🧠 Fast preprocessing
+- ⚠️ Drops rare signals
+- 🏁 Compression, visualization
+
+## 🔸 Reinforcement Learning (DQN, PPO)
+- 📊 Learns from reward signals
+- 🧠 Optimizes decisions
+- ⚠️ Sample-hungry and brittle
+- 🏁 Robotics, control, navigation
+
+<img width="904" height="1092" alt="image" src="https://github.com/user-attachments/assets/a33642e7-1a55-4b9e-ae99-e6be0298287f" />
+
 
 ---
 
