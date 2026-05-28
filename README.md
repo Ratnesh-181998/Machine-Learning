@@ -176,7 +176,30 @@
 
 <img width="904" height="1092" alt="image" src="https://github.com/user-attachments/assets/a33642e7-1a55-4b9e-ae99-e6be0298287f" />
 
+---
 
+# Applied Machine Learning – CS 5785 at Cornell Tech 
+- It covers a wide range of ML algorithms including linear regression, kernel methods, neural networks and more along with their mathematical foundations and hands-on implementations.
+
+## Highlights of the course:
+- 23 lectures with detailed course notes
+- 30+ hours of lecture videos
+- 20+ implementations of ML algorithms in Python
+
+- This is an excellent resource for anyone looking to build a strong foundation in machine learning whether you are just getting started or seeking to strengthen your applied skills.
+
+- Course Website: https://kuleshov-group.github.io/aml-book/intro.html
+- YouTube Playlist: https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+
+- Lecture Notes: https://kuleshov-group.github.io/aml-website/    
+
+- GitHub Link: https://github.com/kuleshov/cornell-cs5785-2020-applied-ml/tree/main/notebooks
+
+<img width="2315" height="978" alt="image" src="https://github.com/user-attachments/assets/e9d9690d-3d2f-4042-8859-1ac4653dd0a3" />
+<img width="2014" height="1152" alt="image" src="https://github.com/user-attachments/assets/b6210372-1855-4522-bed2-22d0ba943014" />
+<img width="2288" height="963" alt="image" src="https://github.com/user-attachments/assets/f71c90f1-2033-4888-ab30-0c819f93738e" />
+
+  
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
