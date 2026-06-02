@@ -199,6 +199,27 @@
 <img width="2014" height="1152" alt="image" src="https://github.com/user-attachments/assets/b6210372-1855-4522-bed2-22d0ba943014" />
 <img width="2288" height="963" alt="image" src="https://github.com/user-attachments/assets/f71c90f1-2033-4888-ab30-0c819f93738e" />
 
+---
+
+# Machine Learning Cheat Sheet
+
+<img width="751" height="1010" alt="image" src="https://github.com/user-attachments/assets/52271618-58fd-48b5-b9b3-bb072a9580bd" />
+<img width="775" height="1130" alt="image" src="https://github.com/user-attachments/assets/785715f8-c50b-40a6-8198-03b4106c4ec7" />
+<img width="769" height="1117" alt="image" src="https://github.com/user-attachments/assets/2f5e2517-79b4-499b-942b-01f8494e994c" />
+<img width="737" height="699" alt="image" src="https://github.com/user-attachments/assets/e2b8ed17-82a3-4513-900c-eeff45727b46" />
+<img width="753" height="609" alt="image" src="https://github.com/user-attachments/assets/02d46585-4cdd-4668-b496-ff8f071c250b" />
+<img width="683" height="589" alt="image" src="https://github.com/user-attachments/assets/c84a48ce-0b5f-424e-b20b-d878aa050c4d" />
+<img width="774" height="1120" alt="image" src="https://github.com/user-attachments/assets/2c4752e8-b329-4fa1-9f7b-c359c19d1178" />
+<img width="784" height="1129" alt="image" src="https://github.com/user-attachments/assets/5c0cf4d2-aa8e-4605-b35e-8562b6fb4447" />
+<img width="771" height="1128" alt="image" src="https://github.com/user-attachments/assets/bfe8fe66-b69e-4bea-9514-f062dc13860d" />
+<img width="786" height="1134" alt="image" src="https://github.com/user-attachments/assets/35738c9c-527b-4e49-b22b-a06ff9d017be" />
+<img width="776" height="1130" alt="image" src="https://github.com/user-attachments/assets/69f4286d-19f2-4cec-88cc-3af44e51fe2d" />
+<img width="789" height="1123" alt="image" src="https://github.com/user-attachments/assets/15cc8207-f154-4519-8f6a-b07d57fa7da9" />
+<img width="788" height="1131" alt="image" src="https://github.com/user-attachments/assets/72f5d761-d2b4-4fb9-9c47-4849918612ee" />
+<img width="769" height="1128" alt="image" src="https://github.com/user-attachments/assets/f8b1cc15-2e18-40d0-962e-ae898a472d23" />
+<img width="787" height="1132" alt="image" src="https://github.com/user-attachments/assets/9a37e694-10fa-4f4b-861e-472cf55a3460" />
+<img width="786" height="1113" alt="image" src="https://github.com/user-attachments/assets/a7f92eb6-608f-4380-86d9-355ff855b94a" />
+
   
 ---
 
