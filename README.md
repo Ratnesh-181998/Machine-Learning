@@ -254,7 +254,50 @@ Whether you're:
 <img width="787" height="1132" alt="image" src="https://github.com/user-attachments/assets/9a37e694-10fa-4f4b-861e-472cf55a3460" />
 <img width="786" height="1113" alt="image" src="https://github.com/user-attachments/assets/a7f92eb6-608f-4380-86d9-355ff855b94a" />
 
-  
+---
+
+# 🧠 Cheat Sheet: 30 Important ML Algorithms
+## Choosing the right machine learning algorithm requires matching your data structure, scaling goals, and problem formulation to the proper model family.
+
+### 🔷 1. Supervised Learning
+- Linear Regression: Predicts continuous values using straight-line relationships.
+- Logistic Regression: Classifies by estimating probabilities between 0 and 1.
+- Decision Tree: Splits data into branches based on feature conditions.
+- Random Forest: Combines decision trees to improve accuracy and reduce overfitting.
+- Gradient Boosting (GBM): Builds trees sequentially to correct previous errors.
+- XGBoost: High-performance gradient boosting optimized for speed and accuracy.
+- LightGBM: Fast, leaf-wise tree growth designed for large datasets.
+- CatBoost: Handles categorical data natively without heavy preprocessing.
+- SVM: Finds optimal hyperplanes to separate distinct classes.
+- kNN: Classifies based on feature proximity to nearest neighbors.
+- Naive Bayes: Probability-based classifier using feature independence assumptions.
+- AdaBoost: Boosting method that focuses on correcting weak model errors.
+
+###  🔷 2. Unsupervised Learning
+- K-Means: Partitions data into $k$ clusters based on centroid distance.
+- Hierarchical Clustering: Builds nested cluster trees without predefined group counts.
+- DBSCAN: Density-based clustering that detects arbitrary shapes and filters noise.
+- GMM: Uses probabilistic distributions to form flexible clusters.
+- Mean Shift: Shifts candidate points toward dense regions to find clusters.
+- PCA: Reduces dimensions while preserving maximum feature variance.
+- t-SNE & UMAP: Reduce high-dimensional data for manifold visualization.
+
+###  🔷 3. Deep Learning & Sequence Models
+- ANN: Learns complex patterns using interconnected perceptron layers.
+- CNN: Uses spatial convolutions to extract local visual patterns.
+- RNN / LSTM / GRU: Process sequential data like time series or text; LSTMs and GRUs preserve long-term dependencies through gating mechanisms.
+- Transformer: Uses self-attention mechanisms to parallelize sequence modeling.
+
+###  🔷 4. Reinforcement Learning
+- Q-Learning / DQN: Learns optimal state-action values using rewards and neural networks.
+Policy Gradient & Actor-Critic: Optimize policy actions directly and balance policy learning with value estimation.
+
+### 🚀 Strategic Outlook
+- Classical tree ensembles (XGBoost, LightGBM) dominate tabular data, Transformers power high-throughput sequence tasks, and Reinforcement Learning optimizes dynamic decision loops. Selecting the proper architecture guarantees scalable, predictable model performance.
+
+
+<img width="932" height="1162" alt="image" src="https://github.com/user-attachments/assets/578aa359-23e0-48a3-aaa7-01a8c48b2008" />
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
